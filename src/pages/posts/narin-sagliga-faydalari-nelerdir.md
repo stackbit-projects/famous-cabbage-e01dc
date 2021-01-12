@@ -12,7 +12,7 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
-thumb_img_path: 'images/narin-faydalari[1].jpg'
+thumb_img_path: images/narin-faydalari.jpg
 content_img_path: 'images/narin-faydalari[1].jpg'
 ---
 Normal metabolik faaliyetler ya da çevre kirliliği, radyasyon gibi etmenler insan vücudunda serbest radikallerin oluşumuna yol açabilmektedir. Serbest radikaller denilen moleküller diğer moleküllerle tepkimeye girerek, vücut hücrelerinde DNA’ya, lipidlere, proteinlere zarar vermektedirler. Serbest radikallerin oluşturduğu oksidasyon reaksiyonlarını durduran ya da yavaşlatan bileşikler, antioksidanlardır. Antioksidanlar vücut tarafından sentezlendiği gibi (endojen), doğal besinlerin tüketimiyle de (ekzojen) alınabilirler. Yalnız ileri yaşlarda vücutta antioksidan üretimi yavaşlamaktadır. Bu yüzden; antioksidan içeriği yüksek besinlerin tüketimi büyük önem taşımaktadır. Vücutta antioksidan miktarının azalması ciltte kırışıklık, hızlı yaşlanma, diyabet, kanser, Alzheimer, Parkinson ve kalp-damar hastalıklarının ortaya çıkmasına neden olabilmektedir.
