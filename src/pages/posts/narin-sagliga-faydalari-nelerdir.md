@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  Narın sağlığa faydaları: “Günaydınım, nar çiçeğim” diyerek sevmemiz gereken
+  meyve
 subtitle: lorem-ipsum
 date: '2021-01-12'
 thumb_img_alt: lorem-ipsum
